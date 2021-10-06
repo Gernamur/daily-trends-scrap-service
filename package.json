@@ -1,0 +1,17 @@
+{
+  "name": "daily-trends-scrap-service",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Daily Trends scrap Service",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "keywords": [],
+  "author": "Germán Navarro",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "puppeteer": "^10.4.0"
+  }
+}
